@@ -14,7 +14,7 @@ slide_level: 2
 theme: metropolis
 header-includes: 
  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
- - '\makeatlet3ter'
+ - '\makeatletter'
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
 aspectratio: 43
@@ -25,14 +25,14 @@ section-titles: true
 
 Научиться добавлять к сайту ссылки на научные и библиометрические ресурсы.
 
-# Ссылки на библиомкетрические ресурсы
+# Ссылки на библиометрические ресурсы
 
 - Открываю сайт, вижу, как сейчас выглядит поле с ссылками на различные ресурсы
 
 - В папке ~/work/study/2021-2022/Операционные системы/personal-project-/
 content/authors/admin вижу наличие 2 файлов, один из которых- текстовый документ _index.md. Поработаем с ним 
 
-- Вношу изменения в наш файл, все поля заполняем по форме. которая представлена в комментариях 
+- Вношу изменения в наш файл, все поля заполняем по форме, которая представлена в комментариях 
 
 # Работа с ~/bin/hugo
 
